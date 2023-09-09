@@ -1,27 +1,27 @@
 # finaktiva-log-reader
 
 --------------------------------------
-##LIBRARIES
+## LIBRARIES
 
-###FRONT-END
+### FRONT-END
 1) ANTD
 
-###BACK-END
+### BACK-END
 1) ENTITY FRAMEWORK
 2) ENTITY FRAMEWORK SQL SERVER
 3) ENTITY FRAMEWORK RELATIONAL
 --------------------------------------
-##MAIN BRANCH
+## MAIN BRANCH
 
 NAME: MAIN
 ---------------------------------------
-##CONECTION DATA BASE
+## CONECTION DATA BASE
 
 "ConnectionStrings": {
     "DefaultConnection": "Data Source=localhost;Initial Catalog=EventLog;Connect Timeout=30;Trust Server Certificate=true;User=anderson;Password=anderson"
 }
 ----------------------------------------
-##ENDPOINTS
+## ENDPOINTS
 ----------------------------------------
 (CREATE A LOG)
 
