@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxTUK+dZCKdDMt/AX1c8I7So8w1ffxTk1cRnl5f21yBbF+VeLSwFs+SmAe48q44SP41AYRn7wDzLLvDKIm4yiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\LogReader\\WpfApp1\\LogReader.Coreww.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.6\\microsoft.aspnetcore.spaproxy.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

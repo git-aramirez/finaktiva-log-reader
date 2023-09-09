@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\LogReader\LogReader.Domain\bin\Debug\net6.0\LogReader.Domain.deps.json
+C:\Users\Usuario\source\repos\LogReader\LogReader.Domain\bin\Debug\net6.0\LogReader.Domain.dll
+C:\Users\Usuario\source\repos\LogReader\LogReader.Domain\bin\Debug\net6.0\LogReader.Domain.pdb
+C:\Users\Usuario\source\repos\LogReader\LogReader.Domain\obj\Debug\net6.0\LogReader.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\LogReader\LogReader.Domain\obj\Debug\net6.0\LogReader.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\LogReader\LogReader.Domain\obj\Debug\net6.0\LogReader.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\LogReader\LogReader.Domain\obj\Debug\net6.0\LogReader.Domain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\LogReader\LogReader.Domain\obj\Debug\net6.0\LogReader.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LogReader\LogReader.Domain\obj\Debug\net6.0\LogReader.Domain.dll
+C:\Users\Usuario\source\repos\LogReader\LogReader.Domain\obj\Debug\net6.0\refint\LogReader.Domain.dll
+C:\Users\Usuario\source\repos\LogReader\LogReader.Domain\obj\Debug\net6.0\LogReader.Domain.pdb
+C:\Users\Usuario\source\repos\LogReader\LogReader.Domain\obj\Debug\net6.0\ref\LogReader.Domain.dll
