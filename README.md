@@ -24,7 +24,7 @@
 ----------------------------------------
 (CREATE A LOG)
 
-METHOD: POST
+* METHOD: POST
 URL: http://localhost:5171/LogReader
 BODY: (example)
 {
@@ -36,6 +36,6 @@ BODY: (example)
 ----------------------------------------
 (GET LOGS)
 
-METHOD: GET
+* METHOD: GET
 URL: http://localhost:5171/LogReader
 ------------------------------------------
