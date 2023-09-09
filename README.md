@@ -16,7 +16,7 @@
 ---------------------------------------
 ## CONECTION DATA BASE
 
-"ConnectionStrings": {
+* "ConnectionStrings": {
     "DefaultConnection": "Data Source=localhost;Initial Catalog=EventLog;Connect Timeout=30;Trust Server Certificate=true;User=anderson;Password=anderson"
 }
 ----------------------------------------
